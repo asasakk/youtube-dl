@@ -1,3 +1,7 @@
+![image](https://github.com/asasakk/youtube-dl/assets/53592756/ba46697a-37f7-40e2-a75c-c096dbf8390b)
+
+GPT3.5による生成です
+
 # YT Downloader by asasakk
 
 このプログラムは、YouTubeから動画をダウンロードするためのPythonスクリプトです。ユーザーはURLを入力し、動画をmp4またはmp3形式でダウンロードすることができます。
